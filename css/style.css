@@ -1,0 +1,28 @@
+﻿.bodystyle {
+	background-color: #ddd6b0;
+}
+
+.main_title {
+	margin-left: 100px;
+}
+
+.point_title {
+	margin-left: 50px;
+}
+
+.point {
+	margin-left: 70px;	
+}
+
+.submit_class {
+	margin-left: 70px;	
+    background-color: #fdf8e9;
+    background-position: center center;
+    background-repeat: no-repeat;
+    border: 1px solid black;
+	border-radius: 10px;
+    color: black;
+    height: 54px;
+    padding: 2px;
+    width: 345px;
+}
